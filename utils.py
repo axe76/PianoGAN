@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep  5 20:41:41 2020
-
-@author: ACER
-"""
 from __future__ import print_function, division
 import sys
 import matplotlib.pyplot as plt
